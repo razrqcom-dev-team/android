@@ -431,7 +431,7 @@
 
   <project path="device/motorola/qcom-common" name="CyanogenMod/android_device_motorola_qcom-common" revision="cm-10.2" groups="device" />
 
-  <project path="device/motorola/msm8960-common" name="CyanogenMod/android_device_motorola_msm8960-common" revision="cm-10.2" groups="device" />
+  <project path="device/motorola/msm8960-common" name="razrqcom-dev-team/android_device_motorola_msm8960-common" revision="cm-10.2" groups="device" />
   <project path="device/motorola/xt897" name="CyanogenMod/android_device_motorola_xt897" revision="cm-10.2" groups="device" />
   <project path="device/motorola/xt897c" name="CyanogenMod/android_device_motorola_xt897c" revision="cm-10.2" groups="device" />
   <project path="device/motorola/xt907" name="CyanogenMod/android_device_motorola_xt907" revision="cm-10.2" groups="device" />
