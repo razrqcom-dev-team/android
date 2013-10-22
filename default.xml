@@ -438,12 +438,13 @@
   <project path="device/motorola/xt926" name="CyanogenMod/android_device_motorola_xt926" revision="cm-10.2" groups="device" />
   <project path="device/motorola/mb886" name="CyanogenMod/android_device_motorola_mb886" revision="cm-10.2" groups="device" />
 
-  <project path="device/motorola/msm8960dt-common" name="razrqcom-dev-team/android_device_motorola_msm8960dt-common" revision="cm-10.2" groups="device" />
-  <project path="device/motorola/xt1058" name="razrqcom-dev-team/android_device_motorola_xt1058" revision="cm-10.2" groups="device" />
-  <project path="device/motorola/xt1060" name="razrqcom-dev-team/android_device_motorola_xt1060" revision="cm-10.2" groups="device" />
+  <project path="device/motorola/msm8960dt-common" name="CyanogenMod/android_device_motorola_msm8960dt-common" revision="cm-10.2" groups="device" />
+  <project path="device/motorola/xt1053" name="CyanogenMod/android_device_motorola_xt1053" revision="cm-10.2" groups="device" />
+  <project path="device/motorola/xt1058" name="CyanogenMod/android_device_motorola_xt1058" revision="cm-10.2" groups="device" />
+  <project path="device/motorola/xt1060" name="CyanogenMod/android_device_motorola_xt1060" revision="cm-10.2" groups="device" />
 
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" revision="cm-10.2" groups="vendor" />
 
   <project path="kernel/motorola/msm8960-common" name="CyanogenMod/android_kernel_motorola_msm8960-common" revision="cm-10.2" groups="kernel" />
-  <project path="kernel/motorola/msm8960dt-common" name="razrqcom-dev-team/android_kernel_motorola_msm8960dt-common" revision="cm-10.2" groups="kernel" />
+  <project path="kernel/motorola/msm8960dt-common" name="CyanogenMod/android_kernel_motorola_msm8960dt-common" revision="cm-10.2" groups="kernel" />
 </manifest>
